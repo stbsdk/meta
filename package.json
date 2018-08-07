@@ -1,0 +1,25 @@
+{
+    "name": "@stbsdk/meta",
+    "version": "1.0.0",
+    "description": "STB SDK repositories management.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spasdk/meta.git"
+    },
+    "dependencies": {
+        "meta-npm": "^0.0.28"
+    },
+    "keywords": [
+        "stb",
+        "sdk",
+        "stbsdk",
+        "framework",
+        "meta"
+    ],
+    "license": "GPL-3.0"
+}

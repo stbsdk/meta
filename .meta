@@ -1,0 +1,22 @@
+{
+    "projects": {
+        "app":                 "git@github.com:stbsdk/app.git",
+        "boilerplate":         "git@github.com:stbsdk/boilerplate.git",
+        "component":           "git@github.com:stbsdk/component.git",
+        "component-button":    "git@github.com:stbsdk/component-button.git",
+        "component-checkbox":  "git@github.com:stbsdk/component-checkbox.git",
+        "component-grid":      "git@github.com:stbsdk/component-grid.git",
+        "component-input":     "git@github.com:stbsdk/component-input.git",
+        "component-list":      "git@github.com:stbsdk/component-list.git",
+        "component-modal":     "git@github.com:stbsdk/component-modal.git",
+        "component-page":      "git@github.com:stbsdk/component-page.git",
+        "component-panel":     "git@github.com:stbsdk/component-panel.git",
+        "component-scrollbar": "git@github.com:stbsdk/component-scrollbar.git",
+        "eslint":              "git@github.com:stbsdk/eslint.git",
+        "keys":                "git@github.com:stbsdk/keys.git",
+        "referrer":            "git@github.com:stbsdk/referrer.git",
+        "shim-classlist":      "git@github.com:stbsdk/shim-classlist.git",
+        "shim-bind":           "git@github.com:stbsdk/shim-bind.git",
+        "shim-frame":          "git@github.com:stbsdk/shim-frame.git"
+    }
+}
